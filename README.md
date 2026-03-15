@@ -1,4 +1,4 @@
-# @server/core
+# @o-town/server
 
 A lightweight, zero-dependency Node.js HTTP server package with built-in routing, middleware support, and response helpers.
 
