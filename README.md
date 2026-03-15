@@ -9,7 +9,7 @@ A lightweight, zero-dependency Node.js HTTP server package with built-in routing
 ## Usage
 
 ```js
-import { createServer } from '@server/server';
+import { createServer } from '@o-town/server';
 
 const app = createServer();
 
